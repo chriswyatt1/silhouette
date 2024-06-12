@@ -8,3 +8,4 @@ Usage:
 Output (in current directory):
 
 `Silhouette50,Silhouette100,Silhouette150,Silhouette200   .png`
+
