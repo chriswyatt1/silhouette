@@ -23,3 +23,5 @@ Tutorial:
 
 3. Explore output:
 
+You should now have 8 new pngs with varying threshold for black. 
+You could amend the thresholds on line 38 of `silhouette.py`

@@ -34,8 +34,8 @@ def convert_to_silhouette(input_image_path, output_image_path_pattern, threshold
 
 # Example usage
 input_image_path = sys.argv[1]
-output_image_path_pattern = "Sihouette_{threshold_value}.png"
-threshold_values = [50, 100, 150, 200] # List of threshold values to generate different outputs
+output_image_path_pattern = "Silhouette_{threshold_value}.png"
+threshold_values = [10, 20, 30, 50, 75, 100, 150, 200] # List of threshold values to generate different outputs
 invert_colors = True  # Set to True to invert the colors
 
 convert_to_silhouette(input_image_path, output_image_path_pattern, threshold_values, invert_colors)
