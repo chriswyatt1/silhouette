@@ -1,7 +1,7 @@
 workspaceLocation: gitpod/gitpod-ws.code-workspace
 checkoutLocation: gitpod
 
-image: quay.io/ecoflowucl/python_pip_example:latest
+image: quay.io/ecoflowucl/python_pip_example:v2
 
 vscode:
     extensions: # based on nf-core.nf-core-extensionpack
