@@ -5,7 +5,7 @@ Background already needs to be white-ish to work.
 
 **Usage:**
 
-`python3 sih.3.py /Full/Path/to/Image.png`
+`python3 silhouete.py /Full/Path/to/Image.png`
 
 Output (in current directory):
 
